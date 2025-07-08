@@ -3,7 +3,7 @@ Collaborative Filtering is a technique used to recommend items to a user based o
 # INTERNSHIP INFORMATION
 - Company : CODETECH IT SOLUTIONS PVT LTD
 - Name : Adapa Keerthi
-- Intern Id:CT06DF
+- Intern Id:CT06DF837
 - Duration : 6weeks
 - Domain : Machine learning
 - Mentor : Neela Shantosh Kumar
